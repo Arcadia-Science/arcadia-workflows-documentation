@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Arcadia Workflows Documentation"
+  favicon: "logos/Arcadia_white_symbol_logo.png"
+  
+  navbar: 
+    background: light
+    logo: "logos/Arcadia_symbol_logo_cropped.png"
+    title: Arcadia Workflows Documentation
+    
+    right: 
+      - icon: twitter
+        href: https://twitter.com/ArcadiaScience
+      - icon: github
+        href: https://github.com/Arcadia-Science
+  
+  sidebar: 
+    links: 
+      - icon: Github
+        href: https://github.com/Arcadia-Science
+    margin-header: test 
+    style: "docked"
+    contents: 
+    - section: "Metagenomics Workflows"
+      contents:
+        - href: pages/metagenomics-workflows/metagenomics-workflows-overview.qmd
+          text: "Overview"
+        - href: pages/metagenomics-workflows/metagenomics-assembly-nf.qmd
+          text: "metagenomics-assembly-nf"
+    - section: "Resources"
+      contents: 
+        - href: pages/nextflow-quick-start/nextflow-quick-start.qmd
+          text: Nextflow Resources 
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
+
+editor: visual
+

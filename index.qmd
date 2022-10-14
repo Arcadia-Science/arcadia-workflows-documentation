@@ -1,0 +1,9 @@
+---
+toc: false
+---
+
+![](logos/Arcadia_full_logo.png)
+
+# Arcadia Workflows Documentation
+
+Welcome to the documentation site for workflows at Arcadia Science.

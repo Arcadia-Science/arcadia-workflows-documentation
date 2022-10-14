@@ -1,0 +1,5 @@
+---
+title: "Nextflow Resources"
+---
+
+A page with some nextflow resources to help people.

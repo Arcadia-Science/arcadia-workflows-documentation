@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Arcadia Workflows Documentation",
+    "section": "",
+    "text": "Arcadia Workflows Documentation"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "pages/nextflow-quick-start/nextflow-quick-start.html",
+    "href": "pages/nextflow-quick-start/nextflow-quick-start.html",
+    "title": "nextflow-quick-start",
+    "section": "",
+    "text": "A page"
+  },
+  {
+    "objectID": "pages/metagenomics-workflows/metagenomics-assembly-nf.html",
+    "href": "pages/metagenomics-workflows/metagenomics-assembly-nf.html",
+    "title": "metagenomics-assembly-nf",
+    "section": "",
+    "text": "test"
+  },
+  {
+    "objectID": "pages/metagenomics-workflows/metagenomics-assembly-nf.html#metagenomics-assembly-nf-documentation",
+    "href": "pages/metagenomics-workflows/metagenomics-assembly-nf.html#metagenomics-assembly-nf-documentation",
+    "title": "metagenomics-assembly-nf",
+    "section": "metagenomics-assembly-nf Documentation",
+    "text": "metagenomics-assembly-nf Documentation"
+  },
+  {
+    "objectID": "pages/metagenomics-workflows/metagenomics-workflows-overview.html",
+    "href": "pages/metagenomics-workflows/metagenomics-workflows-overview.html",
+    "title": "metagenomics-workflows-overview",
+    "section": "",
+    "text": "test"
+  },
+  {
+    "objectID": "pages/metagenomics-workflows/metagenomics-workflows-overview.html#overview",
+    "href": "pages/metagenomics-workflows/metagenomics-workflows-overview.html#overview",
+    "title": "metagenomics-workflows-overview",
+    "section": "overview",
+    "text": "overview"
+  }
+]

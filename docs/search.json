@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Arcadia Workflows Documentation",
+    "section": "",
+    "text": "Arcadia Workflows Documentation\nWelcome to the documentation site for workflows at Arcadia Science."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "pages/nextflow-quick-start/nextflow-quick-start.html",
+    "href": "pages/nextflow-quick-start/nextflow-quick-start.html",
+    "title": "Nextflow Resources",
+    "section": "",
+    "text": "A page with some nextflow resources to help people."
+  }
+]
