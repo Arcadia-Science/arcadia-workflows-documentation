@@ -1,0 +1,7 @@
+---
+title: "Test Datasets"
+editor: visual
+---
+
+https://github.com/Arcadia-Science/test-datasets
+information about the test datasets and documentation is in there, considerations for a test dataset

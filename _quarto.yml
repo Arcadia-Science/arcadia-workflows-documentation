@@ -38,6 +38,8 @@ website:
           text: nf-core Template Guidelines
         - href: pages/resources/container-guidelines.qmd
           text: Container Guidelines
+        - href: pages/resources/test-datasets.qmd
+          text: Test Datasets
 
 format:
   html:
