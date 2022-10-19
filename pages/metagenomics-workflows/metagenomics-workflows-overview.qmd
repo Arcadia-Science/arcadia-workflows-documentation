@@ -1,6 +1,0 @@
----
-title: "metagenomics-workflows-overview"
-editor: visual
----
-
-## overview

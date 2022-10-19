@@ -5,35 +5,39 @@ project:
 website:
   title: "Arcadia Workflows Documentation"
   favicon: "logos/Arcadia_white_symbol_logo.png"
-  
-  navbar: 
+
+  navbar:
     background: light
     logo: "logos/Arcadia_symbol_logo_cropped.png"
     title: Arcadia Workflows Documentation
-    
-    right: 
+
+    right:
       - icon: twitter
         href: https://twitter.com/ArcadiaScience
       - icon: github
         href: https://github.com/Arcadia-Science
-  
-  sidebar: 
-    links: 
+
+  sidebar:
+    links:
       - icon: Github
         href: https://github.com/Arcadia-Science
-    margin-header: test 
+    margin-header: test
     style: "docked"
-    contents: 
-    - section: "Metagenomics Workflows"
+    contents:
+    - section: "Workflows"
       contents:
-        - href: pages/metagenomics-workflows/metagenomics-workflows-overview.qmd
+        - href: pages/overview.qmd
           text: "Overview"
-        - href: pages/metagenomics-workflows/metagenomics-assembly-nf.qmd
-          text: "metagenomics-assembly-nf"
+        - href: pages/metagenomics-workflows/metagenomics.qmd
+          text: "metagenomics"
     - section: "Resources"
-      contents: 
-        - href: pages/nextflow-quick-start/nextflow-quick-start.qmd
-          text: Nextflow Resources 
+      contents:
+        - href: pages/resources/nextflow-quick-start.qmd
+          text: Nextflow Resources
+        - href: pages/resources/nf-core-template-guidelines.qmd
+          text: nf-core Template Guidelines
+        - href: pages/resources/container-guidelines.qmd
+          text: Container Guidelines
 
 format:
   html:
@@ -42,4 +46,3 @@ format:
     toc: true
 
 editor: visual
-

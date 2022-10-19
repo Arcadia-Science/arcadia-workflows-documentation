@@ -4,6 +4,4 @@ toc: false
 
 ![](logos/Arcadia_full_logo.png)
 
-# Arcadia Workflows Documentation
-
-Welcome to the documentation site for workflows at Arcadia Science.
+Welcome to the documentation site for workflows at Arcadia Science. The purpose of this site is to provide documentation, tutorials, and resources for workflows used and developed at Arcadia Science. We strive to make our tooling open-source and reproducible for others in the community to accelerate their science.

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Arcadia Workflows Documentation",
     "section": "",
-    "text": "Arcadia Workflows Documentation\nWelcome to the documentation site for workflows at Arcadia Science."
+    "text": "Welcome to the documentation site for workflows at Arcadia Science. The purpose of this site is to provide documentation, tutorials, and resources for workflows used and developed at Arcadia Science. We strive to make our tooling open-source and reproducible for others in the community to accelerate their science."
   },
   {
     "objectID": "about.html",
@@ -14,8 +14,8 @@
     "text": "1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "pages/nextflow-quick-start/nextflow-quick-start.html",
-    "href": "pages/nextflow-quick-start/nextflow-quick-start.html",
+    "objectID": "pages/resources/nextflow-quick-start.html",
+    "href": "pages/resources/nextflow-quick-start.html",
     "title": "Nextflow Resources",
     "section": "",
     "text": "A page with some nextflow resources to help people."
