@@ -19,5 +19,12 @@
     "title": "Nextflow Resources",
     "section": "",
     "text": "A page with some nextflow resources to help people."
+  },
+  {
+    "objectID": "pages/resources/test-datasets.html",
+    "href": "pages/resources/test-datasets.html",
+    "title": "Test Datasets",
+    "section": "",
+    "text": "https://github.com/Arcadia-Science/test-datasets information about the test datasets and documentation is in there, considerations for a test dataset"
   }
 ]
